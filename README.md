@@ -1,4 +1,4 @@
-Hey, I'm Dylan! Welcome to my page! 👋 👋 👋
+# Hey, I'm Dylan! Welcome to my page! 👋 👋 👋
 
 🎓 Recent CS grad from Queen’s University 👑, AI hobbyist and full-stack developer
 
