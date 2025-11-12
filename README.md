@@ -4,8 +4,6 @@
 
 💻 Passionate about building cool apps and solving problems with code
 
-🧗‍♂️ Avid rock climber who loves the thrill of reaching new heights
-
-🚀 Always eager to learn, collaborate, and create impactful software
+🧗‍♂️ Avid rock climber
 
 📫 Email: dylansmith9001@gmail.com
